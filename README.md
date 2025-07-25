@@ -23,7 +23,7 @@
 </p>
 
 <details>
-<summary>🧠 <strong>About Me</strong></summary>
+<summary>👨‍💻 <strong>About Me</strong></summary>
 
 <br>
 
@@ -86,7 +86,7 @@ Others     0 hrs   ░░░░░░░░░░░░░░░░░░░░�
     
   </p>
 
-### 🔗 Let's Connect
+### 🔗 Contact Me
 
 <p align="center">
     <a href="mailto:naghinjadali@gmail.com">
