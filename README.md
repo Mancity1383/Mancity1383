@@ -4,7 +4,7 @@
 <p>
   <img
     align="left"
-    src="https://img.shields.io/badge/Last%20Updated-2025--07--27-green?style=for-the-badge"
+    src="https://img.shields.io/badge/Last%20Updated-2025--08--04-green?style=for-the-badge"
     width="200px"
     alt="Last Updated"
   />
@@ -85,6 +85,7 @@ Others     0 hrs   ░░░░░░░░░░░░░░░░░░░░�
     <a href="https://github.com/Mancity1383/TLA_Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mancity1383&repo=TLA_Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TLA"></a>
     <a href="https://github.com/Mancity1383/AP_Project_1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mancity1383&repo=AP_Project_1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TLA"></a>
     <a href="https://github.com/Mancity1383/VHDL-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mancity1383&repo=VHDL-Project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TLA"></a>
+     <a href="https://github.com/Mancity1383/Hacking-tools"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mancity1383&repo=Hacking-tools&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TLA"></a>
   </p>
 
 ### 🔗 Contact Me
